@@ -1,5 +1,5 @@
-      How to use
-===========
+ How to use
+ ===========    
 From the terminal  
 `git clone https://github.com/SANTOrick/AirTraffic.rb.git`  
 `irb`  
